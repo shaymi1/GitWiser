@@ -21,7 +21,7 @@ Once your all setup to work, there are several entry-points where you can start:
 * **GIT workshop**. Follow the [workshop page](git/workshop/README.md) for self-learning or group-workshop. 
 
 #
-**Don't forget to [star](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the original [yorammi/GitWiser](https://github.com/yorammi/GitWiser) repository!**
+**Don't forget to [star](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the original [WiseCommunity/GitWiser](https://github.com/WiseCommunity/GitWiser) repository!**
 
 #
 ![GitWiser](resources/images/GitWiser-logo.png)
