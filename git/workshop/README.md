@@ -58,7 +58,7 @@ Along the workshop, many useful tips will be given.
 * git in JetBrain
 
 #
-**Don't forget to [star](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the original [yorammi/GitWiser](https://github.com/yorammi/GitWiser) repository!**
+**Don't forget to [star](https://help.github.com/en/github/getting-started-with-github/saving-repositories-with-stars) the original [WiseCommunity/GitWiser](https://github.com/WiseCommunity/GitWiser) repository!**
 #
 ![GitWiser](../../resources/images/GitWiser-logo.png)
 
