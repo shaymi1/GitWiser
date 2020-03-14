@@ -31,7 +31,7 @@ Along the workshop, many useful tips will be given.
 * basic git merge
 * practice basic git merge
 * git basic sync commands: clone, fetch, pull, push
-* practice basic sync commandss
+* practice basic sync commands
 
 # GIT dive-in
 * git hooks
