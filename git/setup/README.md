@@ -11,7 +11,7 @@ git config --global user.name "<your display name>"
 git config --global user.email <your email address>
 ```
 
-This is important step and you should not skip it. It is necessary for any future [git commit](../../git/commands/git-commit.md) you'll perform. If you have more than one GIT account, the [git config command](../../git/commands/git-config.md) should be used differently. This use-case will not be detailed here.
+This is an important step and you should not skip it. It is necessary for any future [git commit](../../git/commands/git-commit.md) you'll perform. If you have more than one GIT account, the [git config command](../../git/commands/git-config.md) should be used differently, but this use-case will not be detailed here.
 
 # Setup GitHub
 If you don't have a GitHub user, you should sign-up here: https://github.com/join.
